@@ -1,3 +1,3 @@
-# c2llvm
-C code to low level virtual machine source code
-"./c2llvm.sh hello.c
+# cvs2xml
+cvs file format into xml exel 2003 invalid char / <>
+
